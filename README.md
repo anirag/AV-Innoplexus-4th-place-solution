@@ -16,7 +16,7 @@ The final results file is stored in results folder with name 'final_submission.c
 Running time : 15-20 min (MacBook Pro, 16 GB 1600 MHz DDR3, 2.8 GHz Intel Core i7) 
 ***************************************************************************
 Sample console output
-
+```console
 2019-03-27 19:04:15,595 [93339] INFO     root: Loading raw data...
 2019-03-27 19:04:19,814 [93339] INFO     root: Changing data type to string...
 2019-03-27 19:04:20,102 [93339] INFO     root: Extracting POS_TAG for each Word in the training dataset
@@ -33,3 +33,4 @@ Sample console output
 2019-03-27 19:17:42,350 [93495] INFO     root: Predicting the labels for test data...
 2019-03-27 19:18:16,899 [93495] INFO     root: Preparing the submission file...
 2019-03-27 19:18:26,454 [93495] INFO     root: DONE!!!
+```
