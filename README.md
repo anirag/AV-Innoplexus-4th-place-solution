@@ -7,8 +7,7 @@ The objective of this competition is to create a model for Named Entity Recognit
 * Use the following code to install the requirements `pip install -r requirements.txt`
 * Then from the root directory, Execute the batch script run_all.sh using the following code `. run_all.sh`
 * The final results file is stored in results folder with name `final_submission.csv`
-
-Running time : 15-20 min (MacBook Pro, 16 GB 1600 MHz DDR3, 2.8 GHz Intel Core i7) 
+* Running time : 15-20 min (MacBook Pro, 16 GB 1600 MHz DDR3, 2.8 GHz Intel Core i7) 
 ***************************************************************************
 Sample console output
 ```console
