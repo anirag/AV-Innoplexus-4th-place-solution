@@ -213,7 +213,7 @@ nbdime==1.0.1
 nbformat==4.4.0
 neptune-cli==2.8.9
 networkx==1.11
-nltk==3.3
+nltk==3.4.5
 nose==1.3.7
 notebook==5.5.0
 notedown==1.5.1
