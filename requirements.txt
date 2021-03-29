@@ -277,7 +277,7 @@ pycurl==7.43.0.1
 pydot-ng==1.0.0
 pyenchant==2.0.0
 pyflakes==1.6.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==1.6.4
 pykwalify==1.5.2
 pylint==1.8.4
