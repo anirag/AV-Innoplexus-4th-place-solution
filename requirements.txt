@@ -387,7 +387,7 @@ ujson==1.35
 unicodecsv==0.14.1
 Unidecode==1.0.23
 update==0.0.1
-urllib3==1.22
+urllib3==1.26.5
 voluptuous==0.11.1
 wcwidth==0.1.7
 WeasyPrint==43
