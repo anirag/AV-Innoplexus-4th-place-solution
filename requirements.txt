@@ -182,7 +182,7 @@ llvmlite==0.23.1
 locket==0.2.0
 luminol==0.4
 lunardate==0.2.0
-lxml==4.2.1
+lxml==4.6.5
 Markdown==3.0.1
 markdown2==2.3.6
 Markdown2PDF==0.1.4
