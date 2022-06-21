@@ -220,7 +220,7 @@ notedown==1.5.1
 nteract-on-jupyter==1.9.6
 numba==0.38.0
 numexpr==2.6.5
-numpy==1.15.4
+numpy==1.22.0
 numpydoc==0.8.0
 nvidia-ml-py3==7.352.0
 oauthlib==2.1.0
