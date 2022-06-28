@@ -9,7 +9,7 @@ appdirs==1.4.3
 appnope==0.1.0
 appscript==1.0.1
 argcomplete==1.9.4
-arrow==0.12.1
+arrow==0.15.1
 asn1crypto==0.24.0
 astetik==1.9.5
 astor==0.7.1
