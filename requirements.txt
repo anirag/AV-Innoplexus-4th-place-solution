@@ -208,7 +208,7 @@ multiprocess==0.70.6.1
 murmurhash==0.28.0
 mxnet==1.1.0.post0
 navigator-updater==0.2.1
-nbconvert==5.3.1
+nbconvert==6.3.0
 nbdime==1.0.1
 nbformat==4.4.0
 neptune-cli==2.8.9
